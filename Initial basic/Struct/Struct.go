@@ -45,6 +45,4 @@ func main(){
 
    fmt.Printf("%v",car.showName())
 
-
-
 }
